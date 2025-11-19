@@ -1,12 +1,1 @@
-This is my first Git file.
-Learning Git step by step.
-This line is edited differently in feature1 branch.
-Resolved merge: using feature1 version.
-This line is added directly in GitHub.
-My name is kowshik
-i am entering the prompt from the github by suresh
-i am from branch feature1 updated by the naresh
-my name is kowshik chowdary
-I am from pull request with the command
-I love cherry pick
-I am the cherry pick kowshik do you see that
+i am a killer
