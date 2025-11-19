@@ -1,3 +1,4 @@
 This is my first Git file.
 Learning Git step by step.
 Resolved merge: using feature1 version.
+This line is added directly in GitHub.
