@@ -6,3 +6,4 @@ This line is added directly in GitHub.
 My name is kowshik
 i am entering the prompt from the github by suresh
 i am from branch feature1 updated by the naresh
+my name is kowshik chowdary
